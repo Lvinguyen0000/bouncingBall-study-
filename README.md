@@ -1,1 +1,1 @@
-Simple fighting made with Javascript
+Half-baked bouncing ball game
